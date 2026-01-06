@@ -7,8 +7,6 @@
 ![Telegram Storage](https://img.shields.io/badge/Storage-Telegram%20API-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
 
-# web在线体验：
-https://my-cloud-drive-123.tfai.workers.dev/
 
 # web界面详情：
 <img width="2559" height="1098" alt="QQ_1762359730152" src="https://github.com/user-attachments/assets/983abe89-a573-412e-9c94-82821d756b06" />
